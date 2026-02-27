@@ -1,0 +1,18 @@
+[
+  {
+    "degree": "Bachelor of Computer Science",
+    "institution": "Clackamas Community College",
+    "period": "2014 - 2016",
+    "location": "Beaverton, OR",
+    "gpa": "3.78/4.0",
+    "details": "Software Engineering student with solid experience in web development. Passionate about full stack development, database design, and building scalable applications."
+  },
+  {
+    "degree": "Master of Computer Science",
+    "institution": "Portland State University",
+    "period": "2016 - 2018",
+    "location": "Portland, OR",
+    "gpa": "3.65/4.0",
+    "details": "Software Engineering student with solid experience in web development. Passionate about full stack development, database design, and building scalable applications."
+  }
+]

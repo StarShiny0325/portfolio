@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Senior Software Engineer",
+    "company": "Car Toys",
+    "period": "07/2022 - 08/2025",
+    "location": "Seattle, WA",
+    "achievements": [
+      "Architected ML Ops pipelines using MLflow, Airflow, and Docker, enabling versioned model deployment and reproducibility across production ML workflows.",
+      "Deployed scalable ML infrastructure on AWS and GCP, integrating Kubernetes for auto-scaling, failover, and costoptimized compute resource management.",
+      "Designed CI/CD pipelines tailored for ML systems using GitHub Actions and Terraform, reducing deployment time by 40% and improving system uptime.",
+      "Worked with cross-functional teams to transition AI prototypes into production APIs using Python, scikit-learn, and RESTful services, increasing real-time model performance by 35%.",
+      "Implemented monitoring and observability tools (Prometheus, Grafana) for ML services, achieving proactive incident response and 99.9% system reliability.",
+      "Spearheaded documentation and adoption of MLOps best practices, including model lineage tracking, metadata versioning, and audit-ready compliance workflows aligned with regulatory standards."
+    ]
+  },
+  {
+    "title": "Full Stack Software Developer",
+    "company": "Quanergy Systems Inc",
+    "period": "07/2022 - 08/2025",
+    "location": "San Jose, CA",
+    "achievements": [
+      "Built a showcase portal for the annual conference using Next.js, React.js, Node.js, GraphQL, and Tailwind CSS, used by 250 partners and thousands of users globally.",
+      "Established survey and feedback system with real-time feedback collection and analysis dashboards.",
+      "Implemented a suite of new API features for Twilio Verify using JavaScript and Python, enabling real-time verification for over 100,000 daily user transactions.",
+      "Integrated third-party APIs such as Stripe, Google Maps, and Twilio into existing applications.",
+      "Contributed features to JavaScript and Python-based microservices, including real-time signal refreshing and serving.",
+      "Implemented security features using JWT and OAuth2, ensuring robust authentication and authorization mechanisms.",
+      "Implemented user-facing financial dashboard portals and verification processes using React.js, D3.js, and Chart.js."
+    ]
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Sitehands",
+    "period": "06/2018 - 11/2020",
+    "location": "Charlotte, NC",
+    "achievements": [
+      "Led backend development for secure document management systems using Python, PHP, and MySQL, improving system reliability by 25%.",
+      "Pioneered early containerized deployment using Docker, improving deployment consistency and reducing environment mismatch issues.",
+      "Implemented automation scripts and job schedulers to support batch data processing workflows, enhancing operational efficiency.",
+      "Developed RESTful APIs to interface with mobile apps for real-time tracking and document lifecycle management.",
+      "Maintained on-prem infrastructure, optimizing server utilization and preparing for future cloud-readiness."
+    ]
+  }
+]

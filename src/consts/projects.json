@@ -1,0 +1,113 @@
+[
+  {
+    "id": 1,
+    "title": "Portfolio Website",
+    "description": "Showcasing selected works in web development, UI/UX design, and software engineering. Built with React 19, TailwindCSS 4, integrating Three.js and Framer Motion for 3D backgrounds and smooth animations. Optimized for SEO, responsive design, dark/light mode.",
+    "image": "/logo.png",
+    "tags": [
+      "React 19",
+      "TailwindCSS 4",
+      "Three.js",
+      "Framer Motion",
+      "Vite",
+      "Vercel",
+      "GitHub Actions"
+    ],
+    "category": "frontend",
+    "demoUrl": "https://juan-portfolio1.vercel.app",
+    "period": "April 2025 - July 2025",
+    "role": "Senior Full Stack Developer",
+    "teamSize": 1
+  },
+  {
+    "id": 2,
+    "title": "Rich Gardiner - Corporate Website",
+    "description": "A sleek corporate site for fractional CMO services, offering strategic marketing leadership and scalable growth plans. Built with WordPress for content flexibility and professional branding.",
+    "video": "/videos/richgardino.mp4",
+    "tags": [
+      "Spring Boot",
+      "React",
+      "JWT",
+      "WebSocket",
+      "STOMP.js",
+      "Python",
+      "Django",
+      "MariaDB",
+      "Cloudinary",
+      "Monaco Editor"
+    ],
+    "category": "fullstack",
+    "demoUrl": "https://richgardiner.com/about/",
+    "period": "June 2025 - July 2025",
+    "role": "Fullstack Developer",
+    "teamSize": 1
+  },
+  {
+    "id": 3,
+    "title": "Green-Acres - Multinational Real Estate Website",
+    "description": "Updated the Green Acres real estate website using WordPress, implementing multiple themes and plugins, customizing templates for listings and market info, and optimizing site performance and responsiveness.",
+    "image": "/images/green-acres.png",
+    "tags": ["JavaScript", "PHP", "WordPress", "MySQL", ".NET", "C#", "RESTful API"],
+    "category": "fullstack",
+    "demoUrl": "https://www.green-acres.fr",
+    "period": "December 2024 - May 2025",
+    "role": "Team Leader",
+    "teamSize": 4
+  },
+  {
+    "id": 4,
+    "title": "QUANTUM - E-commerce Platform",
+    "description": "Premium Organic Food E-commerce Platform with comprehensive features including product browsing, shopping cart, JWT-secured authentication, admin dashboard for customers, orders, inventory, and analytics. Integrated with Cloudinary for image management.",
+    "image": "/images/ecommerce.jpg",
+    "tags": [
+      "JavaScript",
+      "React",
+      "Node.js",
+      "JWT",
+      "Python",
+      "MySQL",
+      "Cloudinary",
+      "Docker",
+      "CI/CD"
+    ],
+    "category": "fullstack",
+    "period": "May 2025 - June 2025",
+    "role": "Fullstack Developer",
+    "teamSize": 1
+  },
+  {
+    "id": 5,
+    "title": "Luxalgo - E-commerce project",
+    "description": "Modern eCommerce web application for a leading financial analysis tools company",
+    "image": "https://insacmau.com/wp-content/uploads/2024/11/logo-giay-dep-nam-12.jpg",
+    "video": "/videos/luxalgo.webm",
+    "tags": [
+      "React.js",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "Stripe",
+      "Pytorch",
+      "Tensorflow",
+      "Python",
+      "Tailwind CSS"
+    ],
+    "category": "fullstack",
+    "demoUrl": "https://www.luxalgo.com",
+    "period": "March 2023 - September 2023",
+    "role": "Fullstack Developer",
+    "teamSize": 2
+  },
+  {
+    "id": 6,
+    "title": "CodigosDTC - Web App",
+    "description": "A fast, SEO-optimized platform for decoding automotive fault codes in Spanish built with Node.js, React, PostgreSQL",
+    "image": "/images/codigos-screenshot.webp",
+    "tags": ["JavaScript", "Node.js", "Python", "Microservice", "PostgreSQL"],
+    "category": "backend",
+    "demoUrl": "https://codigosdtc.com",
+    "period": "October 2024 - December 2024",
+    "role": "Team Leader",
+    "teamSize": 4
+  }
+]

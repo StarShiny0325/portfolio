@@ -1,0 +1,18 @@
+{
+  "username": "Skyler Long",
+  "firstname": "Skyler",
+  "lastname": "Long",
+  "userrole": "Senior Software Engineer",
+  "email": "skylerlongworkmail@gmail.com",
+  "phone": "+1 805 399 2519",
+  "address": "Beaverton, OR",
+  "github": "https://github.com/ShinySyntax",
+  "linkedin": "https://www.linkedin.com/in/skhighler/",
+  "resumeURL": "/Skylerlongresume.pdf",
+  "footerDescription": "Passionate about crafting seamless web experiences with a blend of creativity and technical expertise. Let's build something amazing together!",
+  "avatar": "/avatar.png",
+  "resume": "Skylerlongresume.pdf",
+  "bgImage": "/bg-image.jpg",
+  "bgImageDark": "/bg-image-dark.jpg",
+  "footerText": "© 2026 Skyler Long. All rights reserved."
+}

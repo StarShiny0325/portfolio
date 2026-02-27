@@ -1,0 +1,50 @@
+[
+  {
+    "category": "Project Excellence",
+    "achievements": [
+      {
+        "title": "Car Toys",
+        "description": "Full-stack web application and MVPs for startups and small businesses",
+        "impact": "End-to-end development"
+      },
+      {
+        "title": "Ai Solution",
+        "description": "AI model training and deployment, real-time analysis, and automated workflow implementation",
+        "impact": "Production deployment"
+      }
+    ],
+    "color": "from-green-500 to-emerald-500"
+  },
+  {
+    "category": "Technical Excellence",
+    "achievements": [
+      {
+        "title": "Modern Stack Mastery",
+        "description": "JavaScript, Python, MERN, UI/UX, AI expertise",
+        "impact": "Industry-standard skills"
+      },
+      {
+        "title": "DevOps Integration",
+        "description": "Docker containerization & deployment automation",
+        "impact": "Production-ready"
+      }
+    ],
+    "color": "from-blue-500 to-purple-500"
+  },
+  {
+    "category": "Academic Achievement",
+    "achievements": [
+      {
+        "title": "Computer Science",
+        "description": "Instituto Cibertic in Beaverton, OR",
+        "impact": "Strong foundation"
+      },
+      {
+        "title": "Continuous Learning",
+        "description": "Self-driven skill development & technology adoption",
+        "impact": "Growth mindset"
+      }
+    ],
+    "color": "from-purple-500 to-pink-500"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "title": "AI-based Software Development",
+    "type": "Car Toys",
+    "year": "2025",
+    "issuer": "Professional Experience",
+    "achievement": "GPA 3.78/4.0",
+    "description": "Built scalable ML infrastructure on AWS and GCP, integrating Kubernetes to support auto-scaling, failover, and cost-efficient computing resource management."
+  },
+  {
+    "title": "Full Stack AI Development",
+    "type": "Quanergy Systems Inc.",
+    "year": "2021",
+    "issuer": "Professional Experience",
+    "achievement": "GPA 3.65/4.0",
+    "description": "Automated machine learning workflows using Docker containers and Airflow, building a scalable machine learning model training and deployment process."
+  }
+]

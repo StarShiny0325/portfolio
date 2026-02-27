@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "10Pearls",
+    "description": "MVP product discovery & optimization for consumer startups",
+    "techUsed": [
+      "JavaScript",
+      "React-Native",
+      "D3.js",
+      "AWS",
+      "WebSocket",
+      "Redis"
+    ],
+    "highlight": "Built mobile-first MVP for a digital health startup, including analytics dashboards and user onboarding automation"
+  },
+  {
+    "id": 2,
+    "name": "Crehana",
+    "description": "Full-stack business portal for enterprise clients with global reach",
+    "techUsed": ["Next.js", "Python", "Nest.js", "MySQL", "Cloudinary"],
+    "highlight": "Role-based dashboards, secure API integrations, and support for thousands of enterprise users"
+  },
+  {
+    "id": 3,
+    "name": "Enviatodo",
+    "description": "E-commerce logistics and fulfillment platform for small businesses",
+    "techUsed": ["Next.js", "Angular", "TailwindCSS", "Framer Motion"],
+    "highlight": "Order and warehouse management system with multi-store integration (Shopify, Magento, BigCommerce)"
+  }
+]
