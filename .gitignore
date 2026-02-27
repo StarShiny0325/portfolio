@@ -35,5 +35,4 @@ dist-ssr
 .prettierrc
 
 .vercel
-package-lock.json
 node_modules/
