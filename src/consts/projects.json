@@ -14,6 +14,7 @@
       "GitHub Actions"
     ],
     "category": "frontend",
+    "demoUrl": "https://skylerlong.vercel.app/",
     "period": "April 2025 - July 2025",
     "role": "Senior Full Stack Developer",
     "teamSize": 1
@@ -44,20 +45,20 @@
   {
     "id": 3,
     "title": "Green-Acres - Multinational Real Estate Website",
-    "description": "Updated the Green Acres real estate website using WordPress, implementing multiple themes and plugins, customizing templates for listings and market info, and optimizing site performance and responsiveness.",
+    "description": "Fine-tuned an LLM on proprietary healthcare data to classify patient intake forms and route them to the correct department automatically. Worked with a US-based healthcare startup to reduce manual classification time and improve routing accuracy to over 92%.",
     "image": "/images/green-acres.png",
-    "tags": ["JavaScript", "PHP", "WordPress", "MySQL", ".NET", "C#", "RESTful API"],
+    "tags": ["LLM Prompt Engineering", "Machine Learning", "Python", "Open AI", "Zapier", "C#", "RESTful API"],
     "category": "fullstack",
-    "demoUrl": "https://www.green-acres.fr",
+    "demoUrl": "https://www.green-acres.fr/",
     "period": "December 2024 - May 2025",
     "role": "Team Leader",
     "teamSize": 4
   },
   {
     "id": 4,
-    "title": "QUANTUM - E-commerce Platform",
+    "title": "LLM Fine-Tuning for Healthcare Data Classification",
     "description": "Premium Organic Food E-commerce Platform with comprehensive features including product browsing, shopping cart, JWT-secured authentication, admin dashboard for customers, orders, inventory, and analytics. Integrated with Cloudinary for image management.",
-    "image": "/images/ecommerce.jpg",
+    "image": "/images/CRM.png",
     "tags": [
       "JavaScript",
       "React",
@@ -104,9 +105,56 @@
     "image": "/images/codigos-screenshot.webp",
     "tags": ["JavaScript", "Node.js", "Python", "Microservice", "PostgreSQL"],
     "category": "backend",
-    "demoUrl": "https://codigosdtc.com",
     "period": "October 2024 - December 2024",
     "role": "Team Leader",
     "teamSize": 4
+  },
+  {
+    "id": 7,
+    "title": "RAG Architecture of question-answering (QA) system",
+    "description": "This diagram illustrates an advanced Retrieval-Augmented Generation (RAG) system for intelligent question answering. A user query is constructed and translated (Text-to-SQL, Text-to-Cypher, self-query retrieval), then routed to relational, graph, or vector databases. Retrieved documents are ranked, refined, and re-retrieved if needed. Optimized indexing and embeddings improve search quality. Finally, an LLM generates accurate, context-aware answers using retrieved evidence.",
+    "image": "/images/rag system.png",
+    "tags": ["RAG", "SQL", "Python", "Cypher Query Language", "LLMOps", "Vector Databases"],
+    "category": "fullstack",
+    "period": "October 2024 - December 2024",
+    "role": "Team Leader",
+    "teamSize": 6
+  },
+  {
+    "id": 8,
+    "title": "Rav AI",
+    "description": "​Rav.ai is an AI-powered video editing platform that enables users to create professional-quality videos effortlessly. It offers features like lifelike avatars with customized voices and visuals, automated editing with scene recognition, and tools for creating engaging presentations and social media content. Users can upload raw footage, select templates, add notes, and receive polished videos ready for sharing. Rav.ai supports various use cases, including drone footage editing, thank-you videos, and more, catering to content creators and businesses alike.",
+    "image": "/images/rav.png",
+    "tags": ["AWS Lambda", "React.js", "Python", "OPen API", "Ffmepeg"],
+    "category": "fullstack",
+    "demoUrl": "https://rav.ai",
+    "period": "October 2024 - December 2024",
+    "role": "Team Leader",
+    "teamSize": 6
+  },
+  {
+    "id": 9,
+    "title": "Takeboost",
+    "description": "This AI-first accounting ledger is a sophisticated AI app designed to automate complex financial workflows. Built by me, a Full Stack Developer using Node.js, Python, and React, the platform features custom AI Agent Development to handle automated transaction tagging and anomaly detection. By leveraging n8n and Zapier for deep integration, the system creates a self-reconciling ledger that eliminates manual data entry. It’s a modern solution for real-time financial clarity, blending robust engineering with intelligent automation.",
+    "image": "/images/Boost.png",
+    "tags": ["JavaScript", "React.js", "Node.Js", "Next.Js", "Python", "n8n"],
+    "category": "fullstack",
+    "demoUrl": "https://takeboost.com/",
+    "period": "April 2022 - May 2023",
+    "role": "Team Leader",
+    "teamSize": 6
+  },
+  {
+    "id": 10,
+    "title": "AI-Powered Recipe Generator",
+    "description": "This project collects user dietary preferences and generates full recipes with AI. This includes recipe details (Gemini) and both cover and instruction images (Flux-fast). In just seconds, users can get generate and save personalized recipes to make at home.",
+    "image": "/images/Recipe Generator.png",
+    "tags": ["React.js", "Python", "Django", "Fast API", "LLM", "ML"],
+    "category": "fullstack",
+    "demoUrl": "https://drive.google.com/file/d/1_xeyjOuXpe5y2ymDrTFlZaW6V68NdfbQ/view",
+    "period": "April 2022 - May 2023",
+    "role": "Team Leader",
+    "teamSize": 6
   }
+
 ]

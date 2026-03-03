@@ -207,11 +207,10 @@ function Home() {
               <div className="hero-element text-2xl md:text-4xl font-semibold text-slate-200 mb-8 h-16">
                 <TypeWriter
                   texts={[
-                    'Full Stack Engineer',
-                    'AI/ML Architecture',
-                    'Frontend Engineer',
-                    'Backend Engineer',
-                    'DevOps Engineer'
+                    'AI/ML, Claude & LLM Systems | AI Automation | AWS | Kubernetes',
+                    'ML Ops | Automation | Kubernetes | AWS | Claude',
+                    'AI/ML | Python | Django | Docker | JWT',
+                    'React | Next.js | TypeScript| Angular | Vue.js | Node.js'
                   ]}
                   delay={isMobile ? 100 : 80}
                   deleteDelay={isMobile ? 50 : 30}
