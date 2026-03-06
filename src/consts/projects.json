@@ -155,6 +155,18 @@
     "period": "April 2022 - May 2023",
     "role": "Team Leader",
     "teamSize": 6
+  },
+  {
+    "id": 11,
+    "title": "Wegwiser",
+    "description": "Wegwiser is a project that automatically creates front-end and back-end code when a user uploads a design.",
+    "image": "/images/wegwiser.png",
+    "tags": ["React.js", "Python", "Django", "Fast API", "LLM", "ML"],
+    "category": "fullstack",
+    "demoUrl": "https://excalidraw.com/#json=dj7Czx5uYDgOijpRDgoAr,_7ZegGs7AMdOILdsBh68QQ",
+    "period": "Febrary 2026 - March 2026",
+    "role": "Team Leader",
+    "teamSize": 6
   }
 
 ]

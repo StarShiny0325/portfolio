@@ -1,43 +1,44 @@
 [
   {
-    "title": "Senior Software Engineer",
-    "company": "Car Toys",
-    "period": "07/2022 - 08/2025",
-    "location": "Seattle, WA",
+    "title": "Senior AI & Full Stack Engineer | ML Ops · Automation · Kubernetes · AWS",
+    "company": "Nike",
+    "period": "11/2023 - present",
+    "location": "Beaverton, OR",
     "achievements": [
-      "Designed and deployed a Python-based sales forecasting pipeline using scikit-learn and PyTorch, improving production forecast accuracy by 13% through structured feature engineering and retraining stabilization.",
-      "Integrated Claude APIs into a FastAPI service to generate structured sales and inventory summaries with validation logic and controlled error handling.",
-      "Implemented a semantic retrieval pipeline that generated embeddings, performed similarity search, and injected relevant context into Claude prompts for internal Q&A workflows.",
-      "Engineered Node.js services that connected to Salesforce Sales Cloud and Service Cloud via OAuth2, automating CRM updates triggered by backend transactions.",
-      "Deployed containerized ML services to AWS EKS with MLflow tracking and Kubernetes autoscaling, increasing availability to 99.6% while reducing compute waste by 11%.",
-      "Delivered React-based forecasting dashboards integrated with FastAPI and Node.js APIs, lowering production latency by 16% through database indexing and Redis caching."
+      "Architected AI automation pipelines integrating Python services with Zapier, Monday.com, and Make.com, eliminating repetitive operational tasks and cutting manual processing time by 35%.",
+      "Developed machine learning models using PyTorch and scikit-learn to analyse 1M+ athlete training records, increasing predictive performance insight accuracy by 14%.",
+      "Deployed scalable ML inference APIs using FastAPI on AWS Kubernetes clusters, enabling internal data platforms to retrieve predictions in real time.",
+      "Constructed an AI agent framework capable of retrieving operational data and generating automated reports for internal teams, shortening reporting preparation time by 40%.",
+      "Orchestrated ML training and batch inference workflows using Docker and Apache Airflow to manage production model pipelines.",
+      "Delivered analytics dashboards using React connected to ML APIs, enabling product and analytics teams to monitor performance metrics and model outputs."
     ]
   },
   {
-    "title": "Full Stack Software Developer",
+    "title": "Full Stack & ML Engineer | Python · Django · JWT",
     "company": "Quanergy Systems Inc",
-    "period": "07/2022 - 08/2025",
-    "location": "San Jose, CA",
+    "period": "11/2020 - 08/2023",
+    "location": "Beaverton, OR",
     "achievements": [
-      "Developed and maintained backend systems for real-time analytics using Python, early ML tools, and Django REST Framework, reducing data latency and enabling smarter fuel distribution logistics.",
-      "Initiated ML workflow automation using Docker containers and Airflow, establishing early foundations for scalable ML model training and deployment processes.",
-      "Collaborated with data scientists to integrate scikit-learn models into production pipelines, improving delivery prediction accuracy by 20%.",
-      "Designed CI pipelines with Git and early container orchestration tools to facilitate consistent, reproducible builds and environment management.",
-      "Supported the evolution of microservices for AI-driven insights, enhancing infrastructure observability and fault tolerance.",
-      "Built CI/CD pipelines using GitHub Actions and Jenkins, reducing manual deployment overhead by 24%."
+      "Led development of a HIPAA-compliant AI medical consultation platform, integrating machine learning inference services with automated consultation workflows supporting healthcare partners.",
+      "Engineered diagnostic assistance models using TensorFlow and scikit-learn to analyse patient data and increase consultation accuracy by 12%.",
+      "Designed secure backend services using Django REST Framework and JWT authentication to manage medical data processing workflows.",
+      "Guided a team of three engineers while building the automated consultation system, coordinating architecture decisions and deployment strategies.",
+      "Integrated LLM-powered information retrieval systems supporting automated patient guidance and knowledge access.",
+      "Built operational monitoring dashboards using React to visualise system activity and consultation metrics."
     ]
   },
   {
-    "title": "Software Engineer",
+    "title": "Software Developer | JavaScript Frameworks · SQL Server · Docker",
     "company": "Sitehands",
-    "period": "06/2018 - 11/2020",
-    "location": "Charlotte, NC",
+    "period": "06/2018 - 7/2020",
+    "location": "Beaverton, OR",
     "achievements": [
-      "Developed backend services using Node.js (Express) and ASP.NET to manage document workflows and barcode-based tracking.",
-      "Designed and maintained REST APIs consumed by internal web applications.",
-      "Built and maintained internal dashboards using React (functional components, hooks) and supported legacy modules in AngularJS.",
-      "Optimized SQL Server and MySQL queries through indexing and restructuring, reducing long-running queries by 20%.",
-      "Improved document processing throughput by 12% by refactoring backend logic and batching operations."
+      "Engineered backend services using Node.js and Express powering a document lifecycle and barcode tracking platform used by enterprise logistics clients.",
+      "Created operational dashboards using React and AngularJS enabling field teams to monitor workflow status and document processing in real time.",
+      "Accelerated SQL Server query performance through indexing and schema restructuring, shortening long-running database queries by 20%.",
+      "Elevated document processing throughput by 12% through redesigned batching workflows and improved file ingestion pipelines.",
+      "Introduced Docker-based deployment environments, increasing release stability and eliminating environment inconsistencies.",
+      "Collaborated within agile engineering teams to deliver continuous integration and iterative feature development."
     ]
   }
 ]
